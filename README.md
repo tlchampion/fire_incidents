@@ -1,7 +1,13 @@
-fire_incidents
+# SF Fire Incidents
 ==============================
 
-Cleanup of SF fire incident data and migration from CSV to database storage
+This project utilizes a CSV file of reported non-medical incidents to which the San Francisco Fire Department resonded to in the year 2016. This CSV file is converted into a SQL database for easier use and reporting. 
+
+Processing tasks include:
+* Desgin of Database Schema
+* Creation of tables
+* Data Cleaning
+* DB table population
 
 Project Organization
 ------------
